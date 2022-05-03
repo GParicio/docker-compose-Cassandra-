@@ -1,1 +1,2 @@
-# docker-compose-Cassandra-
+# docker-compose-Cassandra
+Configuración Cassandra
